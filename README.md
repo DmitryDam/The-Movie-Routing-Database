@@ -1,6 +1,5 @@
 To open this App just follow this link:
-https://dmitrydam.github.io/The-Movies-Database/build
-
+https://dmitrydam.github.io/The-Movie-Routing-Database/build
 
 ## The Movie Routing Database (API+LocalStorage) on ReactJS.
 
