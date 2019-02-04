@@ -22,3 +22,4 @@ https://dmitrydam.github.io/The-Movie-Routing-Database/build
   делается с помощью использования history, поля match.params. В конец url
   строки добавляется id члена команды и, компонент карточки с информацией о нем,
   использует match.params.параметр для отображения информации.
+  * 1
