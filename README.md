@@ -25,7 +25,7 @@ https://dmitrydam.github.io/The-Movie-Routing-Database/build
   
  ## Food service application (ReactJS + Redux)
 
-**To open this App just follow this list**
+**To open this App just follow this list:**
 
 - Clone this repository.
 - **in "server" folder (Server for authorization in APP):**
@@ -34,9 +34,9 @@ https://dmitrydam.github.io/The-Movie-Routing-Database/build
 - **in "client" folder (APP) you should open two bash windows.**
   - npm i (install APP)
   - json-server --watch server/db.json --port 8000 (start backend server fo APP - in first bash window)
-- npm start (start APP - in second bash window )
+  - npm start (start APP - in second bash window )
 
-**Technologies that using in this project**
+**####Technologies that using in this project**
 
 - "react": "^16.6.3",
 - "react-redux": "^6.0.0",
@@ -48,3 +48,4 @@ https://dmitrydam.github.io/The-Movie-Routing-Database/build
 - "query-string": "^6.2.0",
 - "reselect": "^4.0.0"
 - "normalizr": "^3.3.0",
+
