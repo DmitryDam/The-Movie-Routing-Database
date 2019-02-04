@@ -36,7 +36,7 @@ https://dmitrydam.github.io/The-Movie-Routing-Database/build
   - json-server --watch server/db.json --port 8000 (start backend server fo APP - in first bash window)
   - npm start (start APP - in second bash window )
 
-#### Technologies that using in this project
+## Technologies that using in this project:
 
 - "react": "^16.6.3",
 - "react-redux": "^6.0.0",
